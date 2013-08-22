@@ -1,0 +1,15 @@
+{
+    "name": "Kemari",
+    "description": "Keep as many Kemari balls in the air as possible for 60 seconds!",
+    "version": "1.0",
+    "app": {
+        "background": {
+            "scripts": ["chrome.js"],
+            "persistent": false
+        }
+    },
+    "icons": {
+        "16": "icon_16.png",
+        "128": "icon_128.png"
+    }
+}

@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/main.js" />
+        <item url="file://$PROJECT_DIR$/js/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/vendor/bootbox.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/plugins.min.js" />
+      <root url="file://$PROJECT_DIR$/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/boxbox.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/bootstrap.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/leap.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/jquery-1.9.1.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/Box2dWeb-2.1.a.3.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/main.js" />
+      <root url="file://$PROJECT_DIR$/js/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
