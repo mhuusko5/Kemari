@@ -484,7 +484,7 @@ if (typeof require != 'undefined' && (gui = require('nw.gui'))) {
     win.on('enter-fullscreen', function () {
         setTimeout(function () {
             startKemari();
-        }, 150);
+        }, 250);
     });
 } else {
     $(function () {
